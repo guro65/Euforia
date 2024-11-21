@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 1ae3e9b1e8d52604fa78e50c657402b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7119842238252491853
+    second: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_0
+  - first:
+      213: -4778383424478507252
+    second: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_1
+  - first:
+      213: 7892361150629246831
+    second: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_2
+  - first:
+      213: 1151854571721582511
+    second: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_3
+  - first:
+      213: -3790314555611391977
+    second: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_4
+  - first:
+      213: -522136068239687508
+    second: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_5
+  - first:
+      213: 3793509190907640943
+    second: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_6
+  - first:
+      213: 7068942641284926404
+    second: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_7
+  - first:
+      213: 207811168784094562
+    second: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 547
+        width: 145
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb5324f43d313d90800000000000000
+      internalID: -7119842238252491853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 544
+        width: 173
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f0857a795cfadb0800000000000000
+      internalID: -4778383424478507252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 550
+        width: 211
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f677956a6ac478d60800000000000000
+      internalID: 7892361150629246831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 313
+        width: 211
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7ef5451a53cff00800000000000000
+      internalID: 1151854571721582511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 307
+        width: 211
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7185acd5ef8166bc0800000000000000
+      internalID: -3790314555611391977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 313
+        width: 208
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca08728230001c8f0800000000000000
+      internalID: -522136068239687508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 80
+        width: 209
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cba30a28045a430800000000000000
+      internalID: 3793509190907640943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 80
+        width: 208
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb466f11ede91260800000000000000
+      internalID: 7068942641284926404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 65
+        width: 214
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2651cbf282b42e200800000000000000
+      internalID: 207811168784094562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_0: -7119842238252491853
+      depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_1: -4778383424478507252
+      depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_2: 7892361150629246831
+      depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_3: 1151854571721582511
+      depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_4: -3790314555611391977
+      depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_5: -522136068239687508
+      depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_6: 3793509190907640943
+      depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_7: 7068942641284926404
+      depositphotos_78608034-stock-illustration-navy-seal-dying-sprite_8: 207811168784094562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

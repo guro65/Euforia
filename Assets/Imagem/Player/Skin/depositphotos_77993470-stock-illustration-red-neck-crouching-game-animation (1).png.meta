@@ -1,25 +1,23 @@
 fileFormatVersion: 2
-guid: 75c0fc79d215c7d4097d63a6438ea854
+guid: 01212c4a40bff2548bc5dd085dccb251
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 156526009595909451
-    second: Inimigo2_Correndo_0
+      213: -8893068268758349272
+    second: depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation
+      (1)_0
   - first:
-      213: 4840337502079672458
-    second: Inimigo2_Correndo_1
+      213: -3039400486217812802
+    second: depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation
+      (1)_1
   - first:
-      213: 4281937113305786060
-    second: Inimigo2_Correndo_2
+      213: 3989897325817047499
+    second: depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation
+      (1)_2
   - first:
-      213: 923942917438160611
-    second: Inimigo2_Correndo_3
-  - first:
-      213: 5436708569902627549
-    second: Inimigo2_Correndo_4
-  - first:
-      213: 1037094052363742177
-    second: Inimigo2_Correndo_5
+      213: -7912296928894617686
+    second: depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation
+      (1)_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -66,7 +64,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 90
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,56 +109,18 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Inimigo2_Correndo_0
+      name: depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation
+        (1)_0
       rect:
         serializedVersion: 2
-        x: 87
-        y: 362
-        width: 195
-        height: 250
+        x: 109
+        y: 401
+        width: 251
+        height: 356
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,20 +129,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b45d21093971c2200800000000000000
-      internalID: 156526009595909451
+      spriteID: 82a4c5de689759480800000000000000
+      internalID: -8893068268758349272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Inimigo2_Correndo_1
+      name: depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation
+        (1)_1
       rect:
         serializedVersion: 2
-        x: 281
-        y: 361
-        width: 228
-        height: 251
+        x: 495
+        y: 399
+        width: 248
+        height: 327
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,20 +152,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a80e57c10555c2340800000000000000
-      internalID: 4840337502079672458
+      spriteID: eb476d87c51e1d5d0800000000000000
+      internalID: -3039400486217812802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Inimigo2_Correndo_2
+      name: depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation
+        (1)_2
       rect:
         serializedVersion: 2
-        x: 518
-        y: 348
-        width: 218
-        height: 264
+        x: 110
+        y: 64
+        width: 258
+        height: 290
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,20 +175,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc6272d2e1f7c6b30800000000000000
-      internalID: 4281937113305786060
+      spriteID: bc92b9b7a76fe5730800000000000000
+      internalID: 3989897325817047499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Inimigo2_Correndo_3
+      name: depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation
+        (1)_3
       rect:
         serializedVersion: 2
-        x: 66
-        y: 57
-        width: 206
-        height: 273
+        x: 475
+        y: 55
+        width: 259
+        height: 275
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,52 +198,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3eeb3aa203182dc00800000000000000
-      internalID: 923942917438160611
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Inimigo2_Correndo_4
-      rect:
-        serializedVersion: 2
-        x: 290
-        y: 63
-        width: 210
-        height: 267
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dda3e50b3a1137b40800000000000000
-      internalID: 5436708569902627549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Inimigo2_Correndo_5
-      rect:
-        serializedVersion: 2
-        x: 541
-        y: 48
-        width: 205
-        height: 282
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ebafcdbb8f746e00800000000000000
-      internalID: 1037094052363742177
+      spriteID: aa772d34ddfd13290800000000000000
+      internalID: -7912296928894617686
       vertices: []
       indices: 
       edges: []
@@ -299,12 +218,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Inimigo2_Correndo_0: 156526009595909451
-      Inimigo2_Correndo_1: 4840337502079672458
-      Inimigo2_Correndo_2: 4281937113305786060
-      Inimigo2_Correndo_3: 923942917438160611
-      Inimigo2_Correndo_4: 5436708569902627549
-      Inimigo2_Correndo_5: 1037094052363742177
+      depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation (1)_0: -8893068268758349272
+      depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation (1)_1: -3039400486217812802
+      depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation (1)_2: 3989897325817047499
+      depositphotos_77993470-stock-illustration-red-neck-crouching-game-animation (1)_3: -7912296928894617686
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

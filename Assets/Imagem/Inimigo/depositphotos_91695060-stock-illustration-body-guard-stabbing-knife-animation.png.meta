@@ -1,25 +1,19 @@
 fileFormatVersion: 2
-guid: 75c0fc79d215c7d4097d63a6438ea854
+guid: c2bc9f1a83b1a634f9d2c682d41756b3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 156526009595909451
-    second: Inimigo2_Correndo_0
+      213: -8572320275016346348
+    second: depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_0
   - first:
-      213: 4840337502079672458
-    second: Inimigo2_Correndo_1
+      213: 4968827401282322500
+    second: depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_1
   - first:
-      213: 4281937113305786060
-    second: Inimigo2_Correndo_2
+      213: -7583410357380142277
+    second: depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_2
   - first:
-      213: 923942917438160611
-    second: Inimigo2_Correndo_3
-  - first:
-      213: 5436708569902627549
-    second: Inimigo2_Correndo_4
-  - first:
-      213: 1037094052363742177
-    second: Inimigo2_Correndo_5
+      213: 7509335080466237606
+    second: depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -66,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 90
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,56 +105,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Inimigo2_Correndo_0
+      name: depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_0
       rect:
         serializedVersion: 2
-        x: 87
-        y: 362
-        width: 195
-        height: 250
+        x: 170
+        y: 354
+        width: 216
+        height: 276
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b45d21093971c2200800000000000000
-      internalID: 156526009595909451
+      spriteID: 41595c2c020090980800000000000000
+      internalID: -8572320275016346348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Inimigo2_Correndo_1
+      name: depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_1
       rect:
         serializedVersion: 2
-        x: 281
-        y: 361
-        width: 228
-        height: 251
+        x: 495
+        y: 354
+        width: 171
+        height: 276
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a80e57c10555c2340800000000000000
-      internalID: 4840337502079672458
+      spriteID: 44009ab0232d4f440800000000000000
+      internalID: 4968827401282322500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Inimigo2_Correndo_2
+      name: depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_2
       rect:
         serializedVersion: 2
-        x: 518
-        y: 348
-        width: 218
-        height: 264
+        x: 153
+        y: 43
+        width: 264
+        height: 281
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,63 +168,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc6272d2e1f7c6b30800000000000000
-      internalID: 4281937113305786060
+      spriteID: b3ba656657052c690800000000000000
+      internalID: -7583410357380142277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Inimigo2_Correndo_3
+      name: depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_3
       rect:
         serializedVersion: 2
-        x: 66
-        y: 57
-        width: 206
-        height: 273
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3eeb3aa203182dc00800000000000000
-      internalID: 923942917438160611
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Inimigo2_Correndo_4
-      rect:
-        serializedVersion: 2
-        x: 290
-        y: 63
-        width: 210
-        height: 267
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dda3e50b3a1137b40800000000000000
-      internalID: 5436708569902627549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Inimigo2_Correndo_5
-      rect:
-        serializedVersion: 2
-        x: 541
-        y: 48
-        width: 205
+        x: 457
+        y: 37
+        width: 272
         height: 282
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -279,8 +190,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ebafcdbb8f746e00800000000000000
-      internalID: 1037094052363742177
+      spriteID: 6a8c1923874863860800000000000000
+      internalID: 7509335080466237606
       vertices: []
       indices: 
       edges: []
@@ -299,12 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Inimigo2_Correndo_0: 156526009595909451
-      Inimigo2_Correndo_1: 4840337502079672458
-      Inimigo2_Correndo_2: 4281937113305786060
-      Inimigo2_Correndo_3: 923942917438160611
-      Inimigo2_Correndo_4: 5436708569902627549
-      Inimigo2_Correndo_5: 1037094052363742177
+      depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_0: -8572320275016346348
+      depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_1: 4968827401282322500
+      depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_2: -7583410357380142277
+      depositphotos_91695060-stock-illustration-body-guard-stabbing-knife-animation_3: 7509335080466237606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
